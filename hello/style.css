@@ -1,0 +1,45 @@
+.btn-color{
+    background-color: #0e1c36;
+    color: #fff;
+    
+  }
+
+  .img-fluid{
+    border: none;
+  }
+  
+  .profile-image-pic{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }
+  
+  
+  
+  .cardbody-color{
+    
+    background-color: black;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  body{
+    background-image: linear-gradient(to right top, #000000, #000000, #000000, #000000, #000000);
+  }
+
+  #result{
+    text-transform: capitalize;
+    color: rgb(233, 8, 177);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+  }
+  .vishnu h2{
+    letter-spacing: .5px;
+    text-transform: capitalize;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+
+  }
+
+  
